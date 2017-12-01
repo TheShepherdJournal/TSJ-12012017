@@ -1,1 +1,3 @@
-# TSJ-12012017
+# The Shepherd Bulletin
+
+## December 1, 2017
